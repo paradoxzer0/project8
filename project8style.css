@@ -1,9 +1,9 @@
-.border {
+  .border {
   border: 650px;
   }
   
-.solid-border {
-  border: solid;
+  th {
+  border: 20% solid black;
   background-color: yellow;
   }
   
@@ -16,3 +16,9 @@
   margin: auto;
   border-collapse: collapse;
   }
+
+  td {
+    border: 20% dotted blue;
+  }
+
+  
