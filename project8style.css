@@ -1,0 +1,18 @@
+.border {
+  border: 650px
+  }
+  
+.solid-border {
+  border: solid;
+  background-color: yellow;
+  }
+  
+  h1 {
+  color: green;
+  text-align: center;
+  }
+  
+  .table {
+  margin: auto;
+  border-collapse: collapse;
+  }
