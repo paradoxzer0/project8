@@ -1,0 +1,27 @@
+  .table-header {
+  border-size: 20%
+  padding: 5px;
+  background-color: yellow;
+  }
+  
+  h1 {
+  color: green;
+  text-align: center;
+  }
+  
+  .border {
+  border-collapse: collapse;
+  width: 100%;
+  border: 650px solid black;
+  }
+
+  tr {
+    border: 20% dotted blue;
+	padding: 5px;
+  }
+
+body {
+	font-family: Verdana;
+	margin: auto;
+}
+
