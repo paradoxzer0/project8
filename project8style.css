@@ -1,5 +1,5 @@
   .table-header {
-  border-size: 20%
+  border-width: 20%;
   padding: 5px;
   background-color: yellow;
   }
@@ -11,7 +11,7 @@
   
   .border {
   border-collapse: collapse;
-  border: 650px solid black;
+  border: 15px solid black;
   }
 
   tr {
