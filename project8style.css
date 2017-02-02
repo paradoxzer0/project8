@@ -17,6 +17,7 @@ table {
       margin: auto;
       border: 1px solid black;
       width: 650px;
+      border-collapse: collapse;
 }
 
 .row-one {
