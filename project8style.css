@@ -1,31 +1,38 @@
-  .table-header {
+.table-header {
     padding: 5px;
     background-color: yellow;
-    border: 20% solid black;
 }
   
 h1 {
-    color: green;
-	text-align: center;
+      color: green;
+      text-align: center;
 }
   
 body {
-	font-family: Verdana;
-	margin: auto;
+      font-family: Verdana;
+      margin: auto;
 }
 
 table {
-	margin: auto;
-	border: 1px solid black;
-	width: 650px;
+      margin: auto;
+      border: 1px solid black;
+      width: 650px;
 }
 
 .row-one {
-	color: red;
-	border: 20% dotted blue;
+      color: red;
 }
 
 .row-two {
-	color: blue;
+      color: blue;
+}
+
+td {
 	border: 20% dotted blue;
+	padding: 5px;
+}
+
+th {
+	border: 20% solid black;
+	padding: 5px;
 }
