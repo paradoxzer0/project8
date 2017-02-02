@@ -28,11 +28,11 @@ table {
 }
 
 td {
-	border: 20% dotted blue;
+	border: 1px dotted blue;
 	padding: 5px;
 }
 
 th {
-	border: 20% solid black;
+	border: 1px solid black;
 	padding: 5px;
 }
