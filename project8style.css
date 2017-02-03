@@ -1,6 +1,7 @@
 .table-header {
     padding: 5px;
     background-color: yellow;
+	border: 1px solid black;
 }
   
 h1 {
@@ -15,7 +16,6 @@ body {
 
 table {
       margin: auto;
-      border: 1px solid black;
       width: 650px;
       border-collapse: collapse;
 }
@@ -31,9 +31,11 @@ table {
 td {
 	border: 1px dotted blue;
 	padding: 5px;
+	margin: auto;
 }
 
 th {
 	border: 1px solid black;
 	padding: 5px;
+	margin: auto;
 }
