@@ -31,11 +31,11 @@ table {
 td {
 	border: 1px dotted blue;
 	padding: 5px;
-	margin: auto;
+	width: 20%;
 }
 
 th {
 	border: 1px solid black;
 	padding: 5px;
-	margin: auto;
+	width: 20%;
 }
