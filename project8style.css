@@ -18,6 +18,7 @@ table {
       margin: auto;
       width: 650px;
       border-collapse: collapse;
+	padding: 5px;
 }
 
 .row-one {
